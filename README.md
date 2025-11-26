@@ -86,8 +86,7 @@ The dataset contains customer attributes including:
 ---
 
 ## Tools & Technologies Used  
-- **Programming / Data Tools:** Python, Pandas, NumPy, Scikit-learn  
-- **Database / Querying:** (If applicable) SQL (you may note if you used any SQL extraction)  
+- **Programming / Data Tools:** Python, Pandas, NumPy, Scikit-learn   
 - **Visualization / BI Tool:** Tableau  
 - **Notebook Environment:** Jupyter Notebook  
 
